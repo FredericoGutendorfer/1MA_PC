@@ -1,3 +1,3 @@
-# 1MA_PC
+# 2MC_PC
 
 https://1-ma-pc.vercel.app/
