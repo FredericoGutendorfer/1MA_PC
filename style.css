@@ -1,15 +1,15 @@
 @CHARSET'UTF-8';
 
 h2{
-backgrand-color: red;
+backgrand-color: white;
 color:green;
 fot-size: 12pt;
 fot-family: coper Black;
 }
 
 h3{
-backgrand-color: red;
-color:green;
-fot-size: 12pt;
+backgrand-color: white;
+color:red ;
+fot-size: 20pt;
 fot-family: coper Black;
 }
