@@ -1,6 +1,6 @@
 @CHARSET'UTF-8';
 
-div { background-image: linear-gradient( to right, red 50%, green, yellow, blue ); }
+div { background-image: linear-gradient(to right, red 50%,blue); }
 
 
 h2{
