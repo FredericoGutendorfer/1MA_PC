@@ -5,8 +5,6 @@ linear-gradient(
 	<color-stop>[, <color-stop>]+
 )
 
-<side-or-corner> = [left | right] || [top | bottom]
-
 h2{
 backgrand-color: white;
 color:green;
