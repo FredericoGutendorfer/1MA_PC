@@ -1,9 +1,7 @@
 @CHARSET'UTF-8';
 
-linear-gradient(
-	[ [ <angle> | to <side-or-corner> ] ,] 
-	<color-stop>[, <color-stop>]+
-)
+div { background-image: linear-gradient( to right, red 50%, green, yellow, blue ); }
+
 
 h2{
 backgrand-color: white;
