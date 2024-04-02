@@ -1,5 +1,12 @@
 @CHARSET'UTF-8';
 
+linear-gradient(
+	[ [ <angle> | to <side-or-corner> ] ,]? 
+	<color-stop>[, <color-stop>]+
+)
+
+<side-or-corner> = [left | right] || [top | bottom]
+
 h2{
 backgrand-color: white;
 color:green;
